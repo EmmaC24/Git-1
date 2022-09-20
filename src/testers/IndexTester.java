@@ -5,7 +5,7 @@ import java.io.IOException;
 
 import git.index;
 
-public class indextester {
+public class IndexTester {
 	public static void main (String [] args) throws IOException{
 		index index = new index ();
 		index.init();
